@@ -1,0 +1,2 @@
+Gallery Functionality;
+My gallery will serve as a way to display the best photos from each project in the main content area of my site. Each photo will act as a link to individual pages that will detail the specifics of each project and house more photos/videos for best viewing. 
